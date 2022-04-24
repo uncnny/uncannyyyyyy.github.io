@@ -1,3 +1,3 @@
 Hi Everyone!!
 
-This is a website for me to study and experiment with HTML and CSS. Hope you guys enjoy my journey!
+This is a website for me to study and experiment with HTML and CSS. Hope you guys enjoy my journey as a freelancer!
